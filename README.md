@@ -15,6 +15,7 @@ forked from [Tishacy/ZJU-nCov-Hitcarder](https://github.com/Tishacy/ZJU-nCov-Hit
 update: 2021.05.08
 
 ## Usage
+0. **注意：以下步骤所有账号密码等个人信息只能存储在Settings > Secrets里，不要填写在其他地方！**
 
 1. fork，或自己新建repo并创建 `.github\workflows\action.yml` 和 `monthly.yml`。
    
